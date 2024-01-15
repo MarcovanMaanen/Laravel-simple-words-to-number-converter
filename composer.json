@@ -22,7 +22,7 @@
         "laravel/telescope": "^4.17",
         "mockery/mockery": "^1.4.4",
         "nunomaduro/collision": "^7.0",
-        "phpunit/phpunit": "10.5.5",
+        "phpunit/phpunit": "10.5.7",
         "spatie/ignition": "^1.11",
         "spatie/laravel-ignition": "^2.0"
     },
