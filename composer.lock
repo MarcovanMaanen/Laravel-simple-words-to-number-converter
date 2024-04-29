@@ -2482,16 +2482,16 @@
         },
         {
             "name": "outhebox/blade-flags",
-            "version": "1.5.0",
+            "version": "1.5.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/MohmmedAshraf/blade-flags.git",
-                "reference": "0b8aa501e5da6a97c4ef68aeecb191d5ef660ef1"
+                "reference": "fc630fc31f99fd43033338d79604bf153767c70b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/MohmmedAshraf/blade-flags/zipball/0b8aa501e5da6a97c4ef68aeecb191d5ef660ef1",
-                "reference": "0b8aa501e5da6a97c4ef68aeecb191d5ef660ef1",
+                "url": "https://api.github.com/repos/MohmmedAshraf/blade-flags/zipball/fc630fc31f99fd43033338d79604bf153767c70b",
+                "reference": "fc630fc31f99fd43033338d79604bf153767c70b",
                 "shasum": ""
             },
             "require": {
@@ -2538,7 +2538,7 @@
             ],
             "support": {
                 "issues": "https://github.com/MohmmedAshraf/blade-flags/issues",
-                "source": "https://github.com/MohmmedAshraf/blade-flags/tree/1.5.0"
+                "source": "https://github.com/MohmmedAshraf/blade-flags/tree/1.5.1"
             },
             "funding": [
                 {
@@ -2546,7 +2546,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2024-02-28T08:08:13+00:00"
+            "time": "2024-04-23T09:00:44+00:00"
         },
         {
             "name": "phpoption/phpoption",
